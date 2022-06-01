@@ -1,0 +1,1 @@
+// Hola Sabri, lo anoto por aca, pero fui cambiando el diseño de mi portfolio,asi que esta version es la anterior (no cambie tanto, las tipos y la paleta es la misma). Te aviso por las dudas :) 
